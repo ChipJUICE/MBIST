@@ -108,7 +108,7 @@ set_clock_latency 0.01 -source [get_ports clk]
 ## 🚀 Quick Start
 1. Clone this repo:
 ```bash
-git clone https://github.com/EMBEDDED-JUICE/MBIST.git
+git clone https://github.com/ChipJUICE/MBIST.git
 cd MBIST
 ```
 2. Compile & simulate using your preferred simulator.  
