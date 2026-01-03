@@ -43,7 +43,7 @@ Wire Load Model Mode: segmented
   data required time                                                 0.01
   data arrival time                                                  0.00
   --------------------------------------------------------------------------
-  slack (VIOLATED: increase significant digits)                      0.00
+  slack (MET)                                                        0.00
 
 
   Startpoint: opr (input port clocked by CORE_CLK)
